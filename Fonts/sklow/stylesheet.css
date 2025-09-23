@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'Sklow';
+    src: url('Sklow-Medium.eot');
+    src: local('Sklow Medium'), local('Sklow-Medium'),
+        url('Sklow-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Sklow-Medium.woff2') format('woff2'),
+        url('Sklow-Medium.woff') format('woff'),
+        url('Sklow-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sklow';
+    src: url('Sklow-Regular.eot');
+    src: local('Sklow Regular'), local('Sklow-Regular'),
+        url('Sklow-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Sklow-Regular.woff2') format('woff2'),
+        url('Sklow-Regular.woff') format('woff'),
+        url('Sklow-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sklow';
+    src: url('Sklow-Light.eot');
+    src: local('Sklow Light'), local('Sklow-Light'),
+        url('Sklow-Light.eot?#iefix') format('embedded-opentype'),
+        url('Sklow-Light.woff2') format('woff2'),
+        url('Sklow-Light.woff') format('woff'),
+        url('Sklow-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sklow';
+    src: url('Sklow-Thin.eot');
+    src: local('Sklow Thin'), local('Sklow-Thin'),
+        url('Sklow-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Sklow-Thin.woff2') format('woff2'),
+        url('Sklow-Thin.woff') format('woff'),
+        url('Sklow-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sklow';
+    src: url('Sklow-SemiRegular.eot');
+    src: local('Sklow Semi Regular'), local('Sklow-SemiRegular'),
+        url('Sklow-SemiRegular.eot?#iefix') format('embedded-opentype'),
+        url('Sklow-SemiRegular.woff2') format('woff2'),
+        url('Sklow-SemiRegular.woff') format('woff'),
+        url('Sklow-SemiRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sklow';
+    src: url('Sklow-Bold.eot');
+    src: local('Sklow Bold'), local('Sklow-Bold'),
+        url('Sklow-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Sklow-Bold.woff2') format('woff2'),
+        url('Sklow-Bold.woff') format('woff'),
+        url('Sklow-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'Hybi11 Amigo';
+    src: url('Hybi11AmigoBoldItalic.eot');
+    src: local('Hybi11 Amigo Bold Italic'), local('Hybi11AmigoBoldItalic'),
+        url('Hybi11AmigoBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Hybi11AmigoBoldItalic.woff2') format('woff2'),
+        url('Hybi11AmigoBoldItalic.woff') format('woff'),
+        url('Hybi11AmigoBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Hybi11 Amigo';
+    src: url('Hybi11AmigoBold.eot');
+    src: local('Hybi11 Amigo Bold'), local('Hybi11AmigoBold'),
+        url('Hybi11AmigoBold.eot?#iefix') format('embedded-opentype'),
+        url('Hybi11AmigoBold.woff2') format('woff2'),
+        url('Hybi11AmigoBold.woff') format('woff'),
+        url('Hybi11AmigoBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hybi11 Amigo Extra';
+    src: url('Hybi11AmigoExtraBoldItalic.eot');
+    src: local('Hybi11 Amigo Extra Bold Italic'), local('Hybi11AmigoExtraBoldItalic'),
+        url('Hybi11AmigoExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Hybi11AmigoExtraBoldItalic.woff2') format('woff2'),
+        url('Hybi11AmigoExtraBoldItalic.woff') format('woff'),
+        url('Hybi11AmigoExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Hybi11 Amigo';
+    src: url('Hybi11AmigoRegular.eot');
+    src: local('Hybi11 Amigo'), local('Hybi11AmigoRegular'),
+        url('Hybi11AmigoRegular.eot?#iefix') format('embedded-opentype'),
+        url('Hybi11AmigoRegular.woff2') format('woff2'),
+        url('Hybi11AmigoRegular.woff') format('woff'),
+        url('Hybi11AmigoRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hybi11 Amigo';
+    src: url('Hybi11AmigoItalic.eot');
+    src: local('Hybi11 Amigo Italic'), local('Hybi11AmigoItalic'),
+        url('Hybi11AmigoItalic.eot?#iefix') format('embedded-opentype'),
+        url('Hybi11AmigoItalic.woff2') format('woff2'),
+        url('Hybi11AmigoItalic.woff') format('woff'),
+        url('Hybi11AmigoItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Hybi11 Amigo';
+    src: url('Hybi11AmigoLightItalic.eot');
+    src: local('Hybi11 Amigo Light Italic'), local('Hybi11AmigoLightItalic'),
+        url('Hybi11AmigoLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Hybi11AmigoLightItalic.woff2') format('woff2'),
+        url('Hybi11AmigoLightItalic.woff') format('woff'),
+        url('Hybi11AmigoLightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Hybi11 Amigo Extra';
+    src: url('Hybi11AmigoExtraBold.eot');
+    src: local('Hybi11 Amigo Extra Bold'), local('Hybi11AmigoExtraBold'),
+        url('Hybi11AmigoExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Hybi11AmigoExtraBold.woff2') format('woff2'),
+        url('Hybi11AmigoExtraBold.woff') format('woff'),
+        url('Hybi11AmigoExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hybi11 Amigo Semi';
+    src: url('Hybi11AmigoSemiBoldItalic.eot');
+    src: local('Hybi11 Amigo Semi Bold Italic'), local('Hybi11AmigoSemiBoldItalic'),
+        url('Hybi11AmigoSemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Hybi11AmigoSemiBoldItalic.woff2') format('woff2'),
+        url('Hybi11AmigoSemiBoldItalic.woff') format('woff'),
+        url('Hybi11AmigoSemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Hybi11 Amigo Semi';
+    src: url('Hybi11AmigoSemiBold.eot');
+    src: local('Hybi11 Amigo Semi Bold'), local('Hybi11AmigoSemiBold'),
+        url('Hybi11AmigoSemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Hybi11AmigoSemiBold.woff2') format('woff2'),
+        url('Hybi11AmigoSemiBold.woff') format('woff'),
+        url('Hybi11AmigoSemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hybi11 Amigo';
+    src: url('Hybi11AmigoLight.eot');
+    src: local('Hybi11 Amigo Light'), local('Hybi11AmigoLight'),
+        url('Hybi11AmigoLight.eot?#iefix') format('embedded-opentype'),
+        url('Hybi11AmigoLight.woff2') format('woff2'),
+        url('Hybi11AmigoLight.woff') format('woff'),
+        url('Hybi11AmigoLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+

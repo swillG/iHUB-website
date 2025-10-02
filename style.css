@@ -7,18 +7,18 @@
 }
 
 @font-face {
-  font-family: "futura 1";
-  src: url(Fonts/futura-1/FuturaCyrillicLight.ttf) format(truetype);
+  font-family: "Urbanist 1";
+  src: url(Fonts/Urbanist/Urbanist-VariableFont_wght.ttf) format(truetype);
 }
 
 @font-face {
-  font-family: "futura 2";
-  src: url(Fonts/kontara/kontora-medium.otf) format(truetype);
+  font-family: "Urbanist 2";
+  src: url(Fonts/Urbanist/static/Urbanist-Medium.ttf) format(truetype);
 }
 
 @font-face {
-  font-family: "kontara 1";
-  src: url(Fonts/kontara/kontora-regular.otf) format(truetype);
+  font-family: "Urbanist 3";
+  src: url(Fonts/Urbanist/static/Urbanist-SemiBold.ttf) format(truetype);
 }
 
 @font-face {
@@ -113,7 +113,10 @@ body {
 
 .home {
   color: #e8550c;
-  font-weight: 700;
+  font-family: "Urbanist 3";
+  font-weight: 500;
+  font-size: 1.3em;
+  text-decoration: none;
 }
 
 nav ul {
@@ -123,18 +126,19 @@ nav ul {
   gap: 3rem;
 }
 
-nav ul li a {
+.links {
   text-decoration: none;
   color: white;
-  font-family: "futura 1";
-  font-size: 1.4em;
+  font-family: "Urbanist 1";
+  font-size: 1.2em;
+  font-weight: 400;
 }
 
 .start-now {
   height: 3rem;
   width: 11rem;
   border-radius: 3rem;
-  background-color: #e8550c;
+  background-color: #CD4408;
   color: white;
   border-style: none;
   font-family: "acrom", sans-serif;
@@ -158,11 +162,11 @@ nav ul li a {
 
 .p-1 {
   color: white;
-  font-family: "kontara 1", sans-serif;
-  font-size: 3.9em;
-  font-weight: 700;
+  font-family: "Urbanist 1", sans-serif;
+  font-size: 3.3em;
+  font-weight: 500;
   padding-left: 5rem;
-  padding-right: 24rem;
+  padding-right: 37rem;
 }
 
 .p-1 span {
@@ -170,11 +174,12 @@ nav ul li a {
 }
 
 .p-2 {
-  font-family: "futura 1";
-  font-size: 1.91em;
+  font-family: "Urbanist 2";
+  font-size: 1.7em;
   color: rgba(255, 255, 255, 0.838);
   padding-left: 5rem;
-  padding-right: 43rem;
+  padding-right: 39rem;
+  font-weight: 400;
 }
 
 .demo {
@@ -191,18 +196,24 @@ nav ul li a {
   background-color: #e8550c;
   color: white;
   border-style: none;
-  font-family: "Eina 03";
+  font-family: "Urbanist 3";
+  font-weight: 600;
   font-size: 0.9em;
 }
 
 .try-demo {
   display: flex;
   align-items: center;
-  gap: 1.5rem;
+  justify-content: center;
+  gap: 1rem;
   color: #e8550c;
-  font-family: "Eina 03";
+  font-family: "Urbanist 3";
   font-size: 0.98em;
-  font-weight: 567;
+  font-weight: 600;
+  height: 3.2rem;
+  width: 17rem;
+  border-radius: 3rem;background-color: transparent;
+  border-style: none;
 }
 
 .demo-icon-container {
@@ -246,7 +257,8 @@ nav ul li a {
 }
 
 .yr-9 {
-  font-family: "sklow";
+  font-family: "Urbanist 1";
+  font-weight: 400;
   font-size: 5em;
   padding-top: 2.5rem;
 }
@@ -258,14 +270,15 @@ nav ul li a {
 }
 
 .span {
-  font-family: "sklow";
+  font-family: "Urbanist 2";
+  font-weight: 500;
   font-size: 8em;
   color: #e8550c;
 }
 
 .yr-10 {
-  font-family: "futura 1";
-  font-size: 1.5em;
+  font-family: "Urbanist 1";
+  font-size: 1.28em;
   border-style: solid;
   border-top: none;
   border-right: none;
@@ -381,3 +394,18 @@ nav ul li a {
 }
 
 
+.card-1-container {
+  background: linear-gradient(141.48deg, #007C85 -23.55%, #001D1F 248.99%);
+}
+
+.card-2-container {
+  background: linear-gradient(117.74deg, #F5B546 5.35%, #AD8134 319.95%);
+}
+
+.card-3-container {
+  background: linear-gradient(115.03deg, #FCB59A -27.76%, #BD6543 252.34%);
+}
+
+.card-4-container {
+  background: linear-gradient(115.66deg, #BEF74C -19.55%, #473311 315.18%);
+}
